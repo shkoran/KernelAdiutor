@@ -1,0 +1,9 @@
+{
+  "vendor": [
+    "motorola"
+  ],
+  "device": [
+    "shamu"
+  ],
+  "link": "https://raw.githubusercontent.com/Grarak/KernelAdiutor/master/download/shamu.json"
+}
